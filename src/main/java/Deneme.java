@@ -13,6 +13,7 @@ public class Deneme {
         System.out.println("V6 Çalışmaları");//Bu kodu GitHub'a başkası tarafından gönderildi.
         System.out.println("V7 Çalışmaları");//Tekrar yeni versiyonu çalıştım.
         System.out.println("V8 Çalışmaları");//Burada Emre isminde yeni bir branch açtım ve çalışmalara buradan devam ediyorum
+        System.out.println("v9 Çalışmaları");//Tekrar Emre branch'inde yeni kodlar yazdım.
 
     }
 }
