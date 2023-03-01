@@ -14,6 +14,7 @@ public class Deneme {
         System.out.println("V7 Çalışmaları");//Tekrar yeni versiyonu çalıştım.
         System.out.println("V8 Çalışmaları");//Burada Emre isminde yeni bir branch açtım ve çalışmalara buradan devam ediyorum
         System.out.println("v9 Çalışmaları");//Tekrar Emre branch'inde yeni kodlar yazdım.
+        System.out.println("V10 Çalışmaları");//Şimdi de master branch'inde çalışmalar yaptım.
 
     }
 }
