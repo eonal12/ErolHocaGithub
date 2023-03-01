@@ -9,5 +9,7 @@ public class Deneme {
 
         System.out.println("V3 Çalışmaları");//Bu kodu başka bir developer yazarak gitHub'a gönderdi
 
+        System.out.println("V5 Çalışmaları");//Daha sonra bu çakışmaları düzeltip yeni çalışmalarımı v5 olarak yayınladım
+
     }
 }
