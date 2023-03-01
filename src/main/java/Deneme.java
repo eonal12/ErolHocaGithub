@@ -11,6 +11,7 @@ public class Deneme {
 
         System.out.println("V5 Çalışmaları");//Daha sonra bu çakışmaları düzeltip yeni çalışmalarımı v5 olarak yayınladım
         System.out.println("V6 Çalışmaları");//Bu kodu GitHub'a başkası tarafından gönderildi.
+        System.out.println("V7 Çalışmaları");//Tekrar yeni versiyonu çalıştım.
 
     }
 }
